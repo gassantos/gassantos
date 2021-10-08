@@ -1,10 +1,47 @@
-### Hi there 👋
+
+### Hi I am Gustavo Alexandre 👋
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gassantos&count_private=true&show_icons=true&theme=merko)](https://github.com/gassantos/gassantos)
+
+- 🔭 I’m currently working on TCERJ with _Auditing and Control_ (Government)
+- 👨‍🏫 I’m currently teaching on ESPM (Data Analytics and BI) and UFF in Graduate Program forData Science  
+- 🌱 I’m currently learning Cloud Compute (Azure and GCP)
+- 👯 I’m looking to collaborate on [EvolveDTree](https://github.com/gassantos/evolvedtree) and [Scikit-Learn](https://github.com/scikit-learn/scikit-learn) (_first issues_)
+- 🤔 I’m looking for help with Self-Analytics, NLP, AutoML, ExplanableAI
+
+
+**Languages:**
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+
+**Technologies:**
+
+![Flask](https://img.shields.io/badge/-Flask%20-000000?style=flat&logo=flask)
+![Plotly](https://img.shields.io/badge/-Plotly%20-000000?style=flat&logo=plotly)
+![Dash](https://img.shields.io/badge/-Dash%20-000000?style=flat&logo=plotly)
+![SQL](https://img.shields.io/badge/-SQL%20-000000?style=flat&logo=SQL)
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-000000?style=flat&logo=microsoft-azure)
+
+**Contact:**
+
+<p>
+<a href="https://www.linkedin.com/in/gassantos/"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+</p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gassantos&layout=compact&hide=java)](https://github.com/gassantos/gassantos/github-readme-stats)
+
 
 <!--
 **gassantos/gassantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +51,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+	
