@@ -3,7 +3,7 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gassantos&count_private=true&show_icons=true&theme=merko)](https://github.com/gassantos/gassantos)
 
-- 🔭 I’m currently working on TCERJ with _Auditing and Control_ (Government)
+- 🔭 I’m currently working on TCERJ with IA/Analytics for _Auditing and Control_ (Government)
 - 👨‍🏫 I’m currently teaching on ESPM (Data Analytics and BI) and UFF in Graduate Program for Data Science  
 - 🌱 I’m currently learning Cloud Compute (Azure and GCP)
 - 👯 I’m looking to collaborate on [EvolveDTree](https://github.com/gassantos/evolvedtree) and [Scikit-Learn](https://github.com/scikit-learn/scikit-learn) (_first issues_)
