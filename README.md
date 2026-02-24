@@ -108,12 +108,6 @@ Framework completo de fine-tuning de modelos de linguagem (LLaMA 3.2 3B) com LoR
 
 ---
 
-## 📊 Statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gassantos&layout=compact&hide=java,html)](https://github.com/gassantos/gassantos)
-
----
-
 ## 🎯 Areas of Expertise
 
 | Area | Description | Technologies |
